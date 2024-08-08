@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Carrot",
+    "price": 1.5,
+    "info": "Carrots are a root vegetable, typically orange in color, though purple, black, red, white, and yellow varieties exist. They are crisp when fresh and are a great source of beta-carotene, fiber, vitamin K1, potassium, and antioxidants. Carrots have numerous health benefits and are a particularly good source of vitamin A. They are also very versatile in the kitchen, suitable for raw consumption, juicing, or cooking in various dishes.",
+    "weightPerPiece": "0.5 kg",
+    "image": "carrot.png"
+  },
+  {
+    "title": "Tomato",
+    "price": 2.0,
+    "info": "Tomatoes are a popular and versatile fruit (often treated as a vegetable) that comes in a variety of colors, sizes, and flavors. Rich in lycopene, an antioxidant linked to many health benefits, tomatoes are also a great source of vitamin C, potassium, folate, and vitamin K. They can be eaten raw in salads, cooked in sauces, or used in a wide array of dishes around the world. The flavor ranges from sweet to tangy depending on the variety.",
+    "weightPerPiece": "1 kg",
+    "image": "tomato.png"
+  },
+  {
+    "title": "Spinach",
+    "price": 1.2,
+    "info": "Spinach is a leafy green vegetable that is rich in iron, vitamins A, C, and K, as well as magnesium and manganese. It is low in calories and has a mild, slightly sweet flavor when fresh but can be quite earthy and bitter when cooked. Spinach is incredibly versatile and can be eaten raw in salads, blended into smoothies, or cooked in a variety of dishes such as soups, stews, and casseroles.",
+    "weightPerPiece": "0.3 kg",
+    "image": "spinach.png"
+  },
+  {
+    "title": "Potato",
+    "price": 0.8,
+    "info": "Potatoes are a starchy tuberous crop and are one of the most commonly consumed vegetables worldwide. They come in a variety of colors, including white, yellow, red, and purple, each with its own distinct texture and flavor. Potatoes are rich in carbohydrates, vitamin C, and potassium, making them a staple food in many cultures. They can be boiled, baked, mashed, fried, or roasted, and are the key ingredient in many traditional dishes.",
+    "weightPerPiece": "1 kg",
+    "image": "potato.png"
+  },
+  {
+    "title": "Broccoli",
+    "price": 1.8,
+    "info": "Broccoli is a cruciferous vegetable that is closely related to cabbage, cauliflower, and kale. It is known for its green, tree-like florets and is packed with vitamins C and K, as well as fiber and various antioxidants. Broccoli has a slightly bitter taste when raw, which mellows out when cooked. It is a versatile vegetable that can be steamed, sautéed, roasted, or eaten raw, making it a nutritious addition to any meal.",
+    "weightPerPiece": "0.5 kg",
+    "image": "broccoli.png"
+  },
+  {
+    "title": "Cucumber",
+    "price": 1.0,
+    "info": "Cucumbers are a popular and refreshing vegetable, known for their high water content and crisp texture. They are low in calories but high in vitamins K and C, as well as other beneficial nutrients like potassium. Cucumbers are often eaten raw in salads, used as a base for pickles, or blended into refreshing drinks. Their mild flavor makes them a versatile ingredient in many dishes, especially in cooling summer salads and sandwiches.",
+    "weightPerPiece": "0.4 kg",
+    "image": "cucumber.png"
+  },
+  {
+    "title": "Bell Pepper",
+    "price": 1.5,
+    "info": "Bell peppers, also known as sweet peppers, are colorful vegetables that come in green, red, yellow, and orange varieties. They are rich in vitamins A and C, as well as various antioxidants that are beneficial for health. Bell peppers have a crisp texture and a sweet, mild flavor, making them a popular ingredient in salads, stir-fries, and roasted vegetable dishes. They can also be stuffed and baked or eaten raw as a crunchy snack.",
+    "weightPerPiece": "0.3 kg",
+    "image": "bell_pepper.png"
+  },
+  {
+    "title": "Zucchini",
+    "price": 1.3,
+    "info": "Zucchini is a type of summer squash that is harvested while still immature, which contributes to its tender texture and mild flavor. Zucchini is low in calories and high in water content, making it a healthy and hydrating choice. It is also a good source of vitamins A and C, as well as dietary fiber. Zucchini can be grilled, sautéed, roasted, or even spiralized into 'zoodles' as a low-carb alternative to pasta.",
+    "weightPerPiece": "0.4 kg",
+    "image": "zucchini.png"
+  },
+  {
+    "title": "Cauliflower",
+    "price": 2.2,
+    "info": "Cauliflower is a cruciferous vegetable that has recently gained popularity as a low-carb, nutrient-dense substitute for grains and legumes. It is rich in vitamins C and K, as well as fiber, folate, and several other important nutrients. Cauliflower has a mild, slightly nutty flavor and can be eaten raw, steamed, roasted, or even riced to create a healthy alternative to white rice. It's also a key ingredient in many low-carb and keto recipes.",
+    "weightPerPiece": "1 kg",
+    "image": "cauliflower.png"
+  },
+  {
+    "title": "Eggplant",
+    "price": 1.7,
+    "info": "Eggplant, also known as aubergine, is a versatile vegetable that is rich in fiber, vitamins, and minerals. It has a deep purple skin and a spongy texture that soaks up flavors beautifully when cooked. Eggplant is low in calories and can be prepared in a variety of ways, including grilling, roasting, baking, or sautéing. It's commonly used in dishes such as ratatouille, baba ganoush, and eggplant Parmesan.",
+    "weightPerPiece": "0.5 kg",
+    "image": "eggplant.png"
+  },
+  {
+    "title": "Lettuce",
+    "price": 1.0,
+    "info": "Lettuce is a leafy green vegetable that is a staple in salads around the world. It comes in various varieties, such as iceberg, romaine, and butterhead, each with its own unique texture and flavor. Lettuce is low in calories but provides essential vitamins and minerals, particularly vitamins A and K, as well as folate. Its crisp texture and mild flavor make it a perfect base for salads, sandwiches, and wraps.",
+    "weightPerPiece": "0.4 kg",
+    "image": "lettuce.png"
+  },
+  {
+    "title": "Onion",
+    "price": 0.7,
+    "info": "Onions are a pungent and flavorful vegetable that is used as a base in countless dishes across various cuisines. They come in different varieties, including yellow, red, and white onions, each offering a slightly different flavor profile. Onions are rich in vitamins C and B6, as well as antioxidants that have been linked to various health benefits. Whether raw in salads, caramelized, or sautéed, onions add depth and flavor to many dishes.",
+    "weightPerPiece": "1 kg",
+    "image": "onion.png"
+  },
+  {
+    "title": "Garlic",
+    "price": 0.5,
+    "info": "Garlic is a powerful and aromatic vegetable that has been used for centuries both as a culinary ingredient and for its medicinal properties. It is rich in vitamins C and B6, manganese, and selenium. Garlic is known for its strong flavor, which becomes sweeter and mellower when cooked. It is a staple ingredient in many cuisines, often used to add depth and flavor to sauces, marinades, stir-fries, and roasted dishes.",
+    "weightPerPiece": "0.2 kg",
+    "image": "garlic.png"
+  },
+  {
+    "title": "Mushroom",
+    "price": 2.5,
+    "info": "Mushrooms are a type of fungi that are commonly used in cooking for their rich, umami flavor. They are low in calories but high in nutrients, including B vitamins, selenium, and antioxidants. There are many varieties of mushrooms, including button, portobello, shiitake, and oyster, each with its own unique taste and texture. Mushrooms can be eaten raw, sautéed, grilled, or used as a meat substitute in vegetarian and vegan dishes.",
+    "weightPerPiece": "0.5 kg",
+    "image": "mushroom.png"
+  },
+  {
+    "title": "Sweet Potato",
+    "price": 1.1,
+    "info": "Sweet potatoes are a root vegetable known for their sweet, earthy flavor and vibrant orange flesh. They are rich in vitamins A and C, fiber, and potassium. Sweet potatoes are versatile and can be baked, roasted, mashed, or fried. They are also commonly used in both sweet and savory dishes, making them a popular choice for meals ranging from breakfast to dinner. Their natural sweetness makes them a nutritious alternative to regular potatoes.",
+    "weightPerPiece": "1 kg",
+    "image": "sweet_potato.png"
+  },
+  {
+    "title": "Cabbage",
+    "price": 0.9,
+    "info": "Cabbage is a leafy green, red, or white vegetable that is closely related to broccoli and cauliflower. It is low in calories but high in fiber and vitamin C, making it a healthy and filling choice. Cabbage is a versatile vegetable that can be eaten raw in salads, fermented into sauerkraut, or cooked in a variety of dishes such as soups, stews, and stir-fries. Its slightly peppery flavor pairs well with a wide range of ingredients.",
+    "weightPerPiece": "1.2 kg",
+    "image": "cabbage.png"
+  },
+  {
+    "title": "Corn",
+    "price": 0.6,
+    "info": "Corn, also known as maize, is a cereal grain that is a staple food in many parts of the world. It is rich in carbohydrates, fiber, and various vitamins and minerals, including vitamin C and magnesium. Corn can be eaten fresh as corn on the cob, or it can be processed into cornmeal, corn syrup, or popcorn. It is a versatile ingredient that can be grilled, boiled, or roasted, and is often used in salads, soups, and casseroles.",
+    "weightPerPiece": "0.3 kg",
+    "image": "corn.png"
+  },
+  {
+    "title": "Radish",
+    "price": 1.2,
+    "info": "Radishes are a root vegetable known for their peppery flavor and crisp texture. They come in a variety of colors, including red, white, and black, and can range from mild to very spicy. Radishes are low in calories and a good source of vitamin C, potassium, and antioxidants. They can be eaten raw in salads, pickled, or used as a garnish to add a crunchy and zesty element to dishes. Their unique flavor makes them a standout addition to many meals.",
+    "weightPerPiece": "0.4 kg",
+    "image": "radish.png"
+  },
+  {
+    "title": "Pumpkin",
+    "price": 3.0,
+    "info": "Pumpkins are large, round squash that are most commonly associated with autumn and Halloween. They are rich in vitamins A and C, potassium, and fiber. The flesh of the pumpkin is sweet and can be used in both sweet and savory dishes, from soups and stews to pies and bread. Pumpkin seeds are also edible and can be roasted for a nutritious snack. The vibrant orange color and distinctive shape of pumpkins make them a popular choice for seasonal decorations as well.",
+    "weightPerPiece": "3 kg",
+    "image": "pumpkin.png"
+  },
+  {
+    "title": "Beetroot",
+    "price": 1.4,
+    "info": "Beetroot, also known simply as beets, is a root vegetable known for its deep red color and earthy flavor. It is rich in essential nutrients, including folate, manganese, and fiber, and is also a great source of antioxidants. Beets can be eaten raw, cooked, or pickled, and are often used in salads, soups, and juices. The vibrant color of beetroot makes it a visually appealing ingredient, while its natural sweetness adds a unique flavor to dishes.",
+    "weightPerPiece": "0.5 kg",
+    "image": "beetroot.png"
+  }
+]
